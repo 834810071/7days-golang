@@ -1,1 +1,1 @@
-# MyGee
+# my-gee-web
